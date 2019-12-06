@@ -1,0 +1,11 @@
+C:\Users\thehe\dev\adventOfCode\Day6\Day6\bin\Debug\netcoreapp3.0\Day6.exe
+C:\Users\thehe\dev\adventOfCode\Day6\Day6\bin\Debug\netcoreapp3.0\Day6.deps.json
+C:\Users\thehe\dev\adventOfCode\Day6\Day6\bin\Debug\netcoreapp3.0\Day6.runtimeconfig.json
+C:\Users\thehe\dev\adventOfCode\Day6\Day6\bin\Debug\netcoreapp3.0\Day6.runtimeconfig.dev.json
+C:\Users\thehe\dev\adventOfCode\Day6\Day6\bin\Debug\netcoreapp3.0\Day6.dll
+C:\Users\thehe\dev\adventOfCode\Day6\Day6\bin\Debug\netcoreapp3.0\Day6.pdb
+C:\Users\thehe\dev\adventOfCode\Day6\Day6\obj\Debug\netcoreapp3.0\Day6.csprojAssemblyReference.cache
+C:\Users\thehe\dev\adventOfCode\Day6\Day6\obj\Debug\netcoreapp3.0\Day6.AssemblyInfoInputs.cache
+C:\Users\thehe\dev\adventOfCode\Day6\Day6\obj\Debug\netcoreapp3.0\Day6.AssemblyInfo.cs
+C:\Users\thehe\dev\adventOfCode\Day6\Day6\obj\Debug\netcoreapp3.0\Day6.dll
+C:\Users\thehe\dev\adventOfCode\Day6\Day6\obj\Debug\netcoreapp3.0\Day6.pdb
